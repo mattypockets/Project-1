@@ -1,4 +1,5 @@
 # Recikey - Unlock the power of your pantry
+ [Check it out here!](https://recikey.herokuapp.com/index.html)
 
 Have a fridge full of random ingredients? Not sure what to cook? Recikey is here to help.
 
@@ -15,8 +16,6 @@ Just enter in which ingredients you would like to use and Recikey will find a li
 
 ![ReciKey grocery search feature](./assets/images/ReciKey_GrocerySearch.gif)
 * Limit search based on various dietary restrictions.
-
-[Visit Recikey here](https://c9-recipe-test.herokuapp.com/index.html)
 
 ### Developed By:
 * [Dylan Airhart](https://github.com/nfgrawker)
